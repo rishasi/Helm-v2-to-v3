@@ -20,7 +20,7 @@
 
 - Tiller and Helm client interacted using <b>gRPC</b>
 
-  ![helm-v2](docs/image/helm-v2.png)
+  ![helm-v2](docs/image/helm-v2.jpeg)
 
   *Source: https://medium.com*
 
@@ -34,7 +34,7 @@
 
 - The Helm binary talks to API Server using <b>REST(JSON)</b> using a Go binary client for Kubernetes
 
-  ![What's in Helm 3? – IBM Developer](docs/image/helm3-arch.png)
+  ![What's in Helm 3? – IBM Developer](docs/image/helm3-arch.jpeg)
 
 
 
